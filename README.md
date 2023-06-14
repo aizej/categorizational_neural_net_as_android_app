@@ -1,0 +1,1 @@
+# categorizational_neural_net_as_android_app
