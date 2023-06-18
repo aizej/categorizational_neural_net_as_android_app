@@ -24,3 +24,13 @@ First we load our saved dataset and normalise it:
 
 after that we can design some light cnn and let it learn on the dataset:
 ![Screenshot_20230618_133658_Firefox](https://github.com/aizej/categorizational_neural_net_as_android_app/assets/61479273/60d49d4c-9d40-41c3-8100-ce67ab551d5f)
+
+Now i decided to build simple interface in android studio with kotlin. That takes data from the front camera and gives live categorization
+
+Here is test on my cat:
+![Screenshot_20230617_210113_detection demo](https://github.com/aizej/categorizational_neural_net_as_android_app/assets/61479273/06053837-f004-43d2-a3f0-59cfb5ab96ae)
+
+Sadly i don't have a dog so here is test on a picture of a dog:
+![Screenshot_20230617_210322_detection demo](https://github.com/aizej/categorizational_neural_net_as_android_app/assets/61479273/99ccc58f-c812-486b-abe8-5aee730f2f40)
+![Screenshot_20230617_210235_detection demo](https://github.com/aizej/categorizational_neural_net_as_android_app/assets/61479273/afce6207-49ca-44dc-9def-b8a40a2056d5)
+![Screenshot_20230617_210435_detection demo](https://github.com/aizej/categorizational_neural_net_as_android_app/assets/61479273/f8547301-131e-4a56-9c84-d21f10936108)
