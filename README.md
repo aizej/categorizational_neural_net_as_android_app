@@ -1,6 +1,4 @@
 # categorizational_neural_net_as_android_app
-
-
 In this project, i used TensorFlow cats/dogs dataset to train my categorization neural-network
 Then I took this model and built a simple Kotlin app that categorizes live from the camera
 
