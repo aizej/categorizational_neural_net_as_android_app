@@ -19,6 +19,8 @@ after that, we finally take the pictures from our folder and randomly change the
 Then we shuffle the data, extract the labels, convert it to a numpy array, and save them
 
 ![data_hotova](https://github.com/aizej/categorizational_neural_net_as_android_app/assets/61479273/1a1038e6-d8c4-4486-998b-cd6e95b32c52)
+
+
 To finish data preparation we load our saved dataset and normalize it:
 
 
