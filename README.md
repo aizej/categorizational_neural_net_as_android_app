@@ -21,7 +21,8 @@ Then we shuffle the data, extract the labels, convert it to a numpy array, and s
 ![data_hotova](https://github.com/aizej/categorizational_neural_net_as_android_app/assets/61479273/1a1038e6-d8c4-4486-998b-cd6e95b32c52)
 To finish data preparation we load our saved dataset and normalize it:
 
-![data_hotova](https://github.com/aizej/categorizational_neural_net_as_android_app/assets/61479273/59f1c2f6-a242-494a-a1f5-c55f9eb770d6)
+
+![normalizace_dat](https://github.com/aizej/categorizational_neural_net_as_android_app/assets/61479273/2c4630d2-efbf-498d-a58e-8f9165e0035b)
 
 
 That's all for the data preparations now for the learning:
